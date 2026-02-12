@@ -1,0 +1,26 @@
+{
+  "name": "Dev_Tools",
+  "version": "1.0.0",
+  "description": "A collection of AI-powered development skills for enhancing your workflow",
+  "author": "Rafael Rojas",
+  "repository": "https://github.com/RafaelRojasCov/Dev_Tools",
+  "license": "MIT",
+  "skills": [
+    {
+      "name": "prompt-optimizer",
+      "path": "skills/prompt-optimizer",
+      "description": "Optimize and enhance prompts for better AI interactions",
+      "category": "development",
+      "tags": ["prompt-engineering", "optimization", "ai", "productivity"],
+      "version": "1.0.0"
+    }
+  ],
+  "compatibility": {
+    "claude-desktop": ">=1.0.0",
+    "skills-sh": ">=1.0.0"
+  },
+  "configuration": {
+    "autoload": true,
+    "priority": "normal"
+  }
+}
