@@ -1,10 +1,11 @@
-# Dev_Tools
+# Prompt Query
 
-A collection of AI-powered development skills for enhancing your workflow with Claude and other AI assistants.
+A collection of AI-powered development skills for enhancing your workflow with Agents.
 
 ## Overview
 
-Dev_Tools is a curated collection of skills designed to supercharge your development process. These skills help you optimize prompts, generate better code, and work more efficiently with AI assistants.
+Prompt Query is a curated collection of prompts and skills designed to supercharge your development process. 
+These skills help you optimize prompts, generate better code, and work more efficiently with Agents & Agentic AI.
 
 ## Available Skills
 
@@ -25,14 +26,14 @@ Enhance and refine prompts for better AI interactions. The Prompt Optimizer anal
 Install this skill collection directly using skills.sh:
 
 ```bash
-skills install RafaelRojasCov/Dev_Tools
+skills install RafaelRojasCov/Prompt-Query
 ```
 
 ### Manual Installation
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/RafaelRojasCov/Dev_Tools.git
+git clone https://github.com/RafaelRojasCov/Prompt-Query.git
 ```
 
 2. Use the skills in your AI assistant configuration
@@ -59,7 +60,7 @@ I need help optimizing my prompt for better code generation
 ## Skills Structure
 
 ```
-Dev_Tools/
+Prompt-Query/
 ├── skills/
 │   └── prompt-optimizer/
 │       └── SKILL.md
@@ -102,7 +103,7 @@ Rafael Rojas
 ## Links
 
 - [skills.sh](https://skills.sh) - Skill management platform
-- [GitHub Repository](https://github.com/RafaelRojasCov/Dev_Tools)
+- [GitHub Repository](https://github.com/RafaelRojasCov/Prompt-Query)
 
 ## Support
 
