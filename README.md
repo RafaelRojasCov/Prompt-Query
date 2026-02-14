@@ -107,7 +107,7 @@ Rafael Rojas
 
 ## Support
 
-For issues, questions, or suggestions, please [open an issue](https://github.com/RafaelRojasCov/Dev_Tools/issues) on GitHub.
+For issues, questions, or suggestions, please [open an issue](https://github.com/RafaelRojasCov/Prompt-Query/issues) on GitHub.
 
 ---
 
